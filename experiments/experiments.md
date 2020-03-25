@@ -36,8 +36,10 @@ https://makecode.microbit.org/#editor
 
 Also, i try to used aluminium foils instead od cocrodile clip and it work very well. Moreover, while I used cocrodile clip there is a light come up from the BBC microbit but the light aren't comeup while using cocrodile clip. 
 
-![Image](crocodile.jpg)
-![Image](one.jpg)
+![Image](crocodile.png)
+![Image](one.png)
+
+
 
 ## Reflection 3 ##
 
@@ -66,6 +68,7 @@ In this experiment, i find out th echanging of the colour and it going to make m
 ## Driving with colour ##
 
 ![Image](blue.png)
+![Image](green.png)
 ![Image](green.jpg)
 
 
@@ -96,8 +99,8 @@ Circuit
 
 #### Photo of completed project ####
 
-![Image](circuit.jpg)
-![Image](circuit1.jpg)
+![Image](circuit.png)
+![Image](circuit1.png)
 
 (this is a image of circuit)
 
