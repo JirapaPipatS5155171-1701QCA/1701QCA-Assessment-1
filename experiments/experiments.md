@@ -171,7 +171,7 @@ My guitar project builds with an egg panel, cardboard, masking tape, crocodile c
 
 ![Image](guitar.png)
 ![Image](body.png)
-
+![Image](body.png)
 
 ## Reflection ##
 
