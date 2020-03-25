@@ -22,9 +22,9 @@ https://makecode.microbit.org/#editor
 https://makecode.microbit.org/#editor
 
 #### Photo of completed project ####
- `circuit.jpg` 
 
-![Image](circuit,jpg)
+
+ `![Image](circuit,jpg)`
 
 (Insert a caption here)
 
@@ -36,8 +36,8 @@ https://makecode.microbit.org/#editor
 
 Also, i try to used aluminium foils instead od cocrodile clip and it work very well. Moreover, while I used cocrodile clip there is a light come up from the BBC microbit but the light aren't comeup while using cocrodile clip. 
 
-![Image](missingimage.png)
-
+![Image](crocodile.jpg)
+![Image](one.jpg)
 
 ## Reflection 3 ##
 
@@ -52,24 +52,22 @@ https://makecode.microbit.org/#editor
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
 
-(Insert a caption here)
 
 Reflection 4 
 How to create a RGB Led and to observe a different colours
 
 https://makecode.microbit.org/#editor
-
-
+ 
 
 In this experiment, i find out th echanging of the colour and it going to make my guitar be colourful. 
 
 
 ## Driving with colour ##
 
-blue.jpg 
-(blue.png)
+![Image](blue.png)
+![Image](green.jpg)
+
 
 
 ## Reflection 5 ##
@@ -165,5 +163,9 @@ This is a great reading for my project. When i run into barriers i can test and 
 My guitar project builds with an egg panel, cardboard, masking tape, crocodile clip, and aluminium foil. I used the egg panel as a body of the guitar and cut it into half and put it together as a long shape guitar. The cardboard, i used ot to build the guitar holder. I cut it into rectangle shape and roll up like a handle. After finish with those process I used a masking tape tu glue it as a one piece of work. the reason I chose to use the egg panel because I want to build a new shape of the guitar and it seems to be an interesting style and easy to build. In the one with a piezo buzzer experiment, I used a crocodile clip to join the BBC microbit and Piezo element buzzer to make the sound. However, I found out that aluminium can be used to make the sound as well so, I avoid using a crocodile clip and use aluminium instead. 
 
 
+
+## Reflection ##
+
+From this project, I found out several experiments and techniques to play with the BBC micro:bit. I have learn how to create an image and display it on the BBC micro:bit. Also, learn how to create a tone and the light sensor which are totally useful to create my project. However, I"m slightly found an issue while experiment some process. Especially, with the speaker the sound are to quiet maybe becuase the speaker is too small. Nevetheless, I really love to play and experiment with the tone by using the piezo buzzer. 
 
 
