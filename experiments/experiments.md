@@ -26,7 +26,7 @@ https://makecode.microbit.org/#editor
 
  `![Image](circuit,jpg)`
 
-(Insert a caption here)
+
 
  ## Reflection 2 ##
  
@@ -36,7 +36,7 @@ https://makecode.microbit.org/#editor
 
 Also, i try to used aluminium foils instead od cocrodile clip and it work very well. Moreover, while I used cocrodile clip there is a light come up from the BBC microbit but the light aren't comeup while using cocrodile clip. 
 
-![Image](crocodile.png)
+![Image](crocodile.png) into kitexperiment folder 
 ![Image](one.png)
 
 
