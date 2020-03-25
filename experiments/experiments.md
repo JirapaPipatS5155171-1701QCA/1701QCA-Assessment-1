@@ -22,9 +22,9 @@ https://makecode.microbit.org/#editor
 https://makecode.microbit.org/#editor
 
 #### Photo of completed project ####
-*In the code below, replace `missingimage.png` with the name of the image, which should be in the `kitexperiments` folder.*
+ `circuit.jpg` 
 
-![Image](missingimage.png)
+![Image](circuit,jpg)
 
 (Insert a caption here)
 
@@ -68,12 +68,9 @@ In this experiment, i find out th echanging of the colour and it going to make m
 
 ## Driving with colour ##
 
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+blue.jpg 
+(blue.png)
 
-![Image](missingimage.png)
-
-(Insert a caption here)
 
 ## Reflection 5 ##
 
@@ -166,5 +163,7 @@ This is a great reading for my project. When i run into barriers i can test and 
 ## Process documentation ##
 
 My guitar project builds with an egg panel, cardboard, masking tape, crocodile clip, and aluminium foil. I used the egg panel as a body of the guitar and cut it into half and put it together as a long shape guitar. The cardboard, i used ot to build the guitar holder. I cut it into rectangle shape and roll up like a handle. After finish with those process I used a masking tape tu glue it as a one piece of work. the reason I chose to use the egg panel because I want to build a new shape of the guitar and it seems to be an interesting style and easy to build. In the one with a piezo buzzer experiment, I used a crocodile clip to join the BBC microbit and Piezo element buzzer to make the sound. However, I found out that aluminium can be used to make the sound as well so, I avoid using a crocodile clip and use aluminium instead. 
+
+
 
 
