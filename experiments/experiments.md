@@ -37,7 +37,6 @@ Also, i try to used aluminium foils instead od cocrodile clip and it work very w
 
 
 
-
 Reflection 3
 Ligh sensor and Analog inputs
 
@@ -55,14 +54,44 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 (Insert a caption here)
 
 Reflection 4 
+How to create a RGB Led and to observe a different colours
 
-In this experiment, something new to me was or something I learned was (insert something here).
+https://makecode.microbit.org/#editor
 
-This experiment could be the basis of a real world application such as (insert something here).
 
-### Experiment name ###
 
-(Replace this with the experiment name)
+In this experiment, i find out th echanging of the colour and it going to make my guitar be colourful. 
+
+
+Driving with colour. 
+#### Photo of completed project ####
+In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
+![Image](missingimage.png)
+
+(Insert a caption here)
+
+Reflection 5 
+Using a transistor to drive a motor. 
+https://makecode.microbit.org/#editor
+
+In this experiment, something new to new was about putting the fan onto my guitar. 
+I found that this experiment could create my guitar different from other. 
+
+Guitar with fan.
+#### Photo of completed project ####
+In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+
+![Image](missingimage.png)
+
+(Insert a caption here)
+
+Reflection 6
+How to Capacitor Charge Circuit 
+
+In this experiment, I try to display a charge percenrtage on the Led diplay. The BBc microbit will be programmed to display the charge level of th ecapacitor both numerically and using external Leds to create a colour coded display. 
+
+Circuit
 
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
@@ -71,45 +100,6 @@ In the code below, replace imagemissing.jpg with the name of the image, which sh
 
 (Insert a caption here)
 
-#### Reflection ####
-
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
-
-### Experiment name ###
-
-(Replace this with the experiment name)
-
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
-![Image](missingimage.png)
-
-(Insert a caption here)
-
-#### Reflection ####
-
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
-
-### Experiment name ###
-
-(Replace this with the experiment name)
-
-#### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
-
-![Image](missingimage.png)
-
-(Insert a caption here)
-
-#### Reflection ####
-
-In this experiment, something new to me was or something I learned was (insert something here).
-
-This experiment could be the basis of a real world application such as (insert something here).
 
 
 Reading reflections
