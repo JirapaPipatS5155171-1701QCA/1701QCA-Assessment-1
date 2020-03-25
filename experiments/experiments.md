@@ -6,7 +6,7 @@ Replication project choice
 
 Guitar 
 
-Related projects 1
+Related project 1
 Flash the hex file onto the BBC micro:bit 
 This experiment related to my work because I wanted my guitar to have the light display like a volume that keep on moving. 
 https://make.techwillsaveus.com/microbit/activities/air-guitar
