@@ -69,7 +69,6 @@ In this experiment, i find out th echanging of the colour and it going to make m
 
 ![Image](blue.png)
 ![Image](green.png)
-![Image](green.jpg)
 
 
 
