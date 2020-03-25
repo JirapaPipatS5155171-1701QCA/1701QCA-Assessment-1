@@ -36,6 +36,7 @@ https://makecode.microbit.org/#editor
 
 Also, i try to used aluminium foils instead od cocrodile clip and it work very well. Moreover, while I used cocrodile clip there is a light come up from the BBC microbit but the light aren't comeup while using cocrodile clip. 
 
+![Image](missingimage.png)
 
 
 ## Reflection 3 ##
@@ -101,7 +102,8 @@ Circuit
 #### Photo of completed project ####
 In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
 
-![Image](missingimage.png)
+![Image](circuit.png)
+![Image](circuit1.png)
 
 (Insert a caption here)
 
