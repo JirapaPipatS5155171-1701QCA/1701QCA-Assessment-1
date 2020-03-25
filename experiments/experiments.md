@@ -1,10 +1,20 @@
-# Inventor Kit Experiments
+Assessment 1: Replication project
 
 *Markdown reference: https://guides.github.com/features/mastering-markdown/*
 
-## Instructions ##
+Replication project choice
 
-*For a selection of 5 inventor kit experiments that you choose, fill out the following sections.
+Guitar 
+
+Related projects 
+Flash the hex file onto the BBC micro:bit 
+https://make.techwillsaveus.com/microbit/activities/air-guitar
+https://makecode.microbit.org/v1/87337-04361-88101-06426
+
+This is what i have experiment
+https://makecode.microbit.org/#editor
+
+
 
 ### Experiment name ###
 
