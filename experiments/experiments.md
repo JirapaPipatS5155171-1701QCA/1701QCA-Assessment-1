@@ -23,8 +23,11 @@ https://makecode.microbit.org/#editor
 
 #### Photo of completed project ####
 
+![Image](circuit.jpg)
+![Image](circuit1.png)
 
- `![Image](circuit,jpg)`
+
+
 
 
 
@@ -36,8 +39,8 @@ https://makecode.microbit.org/#editor
 
 Also, i try to used aluminium foils instead od cocrodile clip and it work very well. Moreover, while I used cocrodile clip there is a light come up from the BBC microbit but the light aren't comeup while using cocrodile clip. 
 
-![Image](crocodile.png) into kitexperiment folder 
-![Image](one.png)
+![Image](crocodile.jpg) 
+![Image](one.jpg)
 
 
 
@@ -164,6 +167,10 @@ This is a great reading for my project. When i run into barriers i can test and 
 
 My guitar project builds with an egg panel, cardboard, masking tape, crocodile clip, and aluminium foil. I used the egg panel as a body of the guitar and cut it into half and put it together as a long shape guitar. The cardboard, i used ot to build the guitar holder. I cut it into rectangle shape and roll up like a handle. After finish with those process I used a masking tape tu glue it as a one piece of work. the reason I chose to use the egg panel because I want to build a new shape of the guitar and it seems to be an interesting style and easy to build. In the one with a piezo buzzer experiment, I used a crocodile clip to join the BBC microbit and Piezo element buzzer to make the sound. However, I found out that aluminium can be used to make the sound as well so, I avoid using a crocodile clip and use aluminium instead. 
 
+## Documentation process ##
+
+![Image](guitar.png)
+![Image](body.png)
 
 
 ## Reflection ##
