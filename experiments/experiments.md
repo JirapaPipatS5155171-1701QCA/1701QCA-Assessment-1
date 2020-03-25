@@ -100,7 +100,7 @@ In this experiment, I try to display a charge percenrtage on the Led diplay. The
 Circuit
 
 #### Photo of completed project ####
-In the code below, replace imagemissing.jpg with the name of the image, which should be in the kitexperiments folder.
+In the code below, replace circuit.jpg with the name of the image, which should be in the kitexperiments folder.
 
 ![Image](circuit.png)
 ![Image](circuit1.png)
